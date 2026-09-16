@@ -7,7 +7,7 @@
   <a href="./README.pt-BR.md">🇧🇷 Português</a>
 </p>
 
-# Olá, sou José Victor 👋
+# Olá, sou José Lyra 👋
 
 ## Sobre mim
 
@@ -25,9 +25,9 @@ Atualmente moro e estudo na França 🇫🇷.
 * Automação & Dados
 * Engenharia
 
-### Tecnologias
+### Habilidades
 
-`Python` `C++` `Git` `Linux` `SQL` `Machine Learning`
+`TypeScript` `HTML` `CSS` `C` `C++` `Solidity` `Python` `MATLAB` `Machine Learning`
 
 ---
 
