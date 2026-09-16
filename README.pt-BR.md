@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="José Victor">
+</p>
+
 <p align="right">
   <a href="./README.md">🇬🇧 English</a> |
   <a href="./README.pt-BR.md">🇧🇷 Português</a>
@@ -24,22 +28,6 @@ Atualmente moro e estudo na França 🇫🇷.
 ### Tecnologias
 
 `Python` `C++` `Git` `Linux` `SQL` `Machine Learning`
-
----
-
-## Projetos em destaque
-
-### 🤖 Nome do projeto
-
-Breve descrição do projeto desenvolvido e das tecnologias utilizadas.
-
-### 📊 Nome do projeto
-
-Breve descrição do problema, da solução desenvolvida e dos resultados.
-
-### ⚙️ Nome do projeto
-
-Breve descrição do projeto.
 
 ---
 
