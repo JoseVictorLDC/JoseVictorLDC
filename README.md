@@ -7,7 +7,7 @@
   <a href="./README.pt-BR.md">🇧🇷 Português</a>
 </p>
 
-# Hi, I'm José Victor 👋
+# Hi, I'm José Lyra 👋
 
 ## About me
 
@@ -25,9 +25,9 @@ Currently based in France 🇫🇷.
 * Automation & Data
 * Engineering
 
-### Technologies
+### Skills
 
-`Python` `C++` `Git` `Linux` `SQL` `Machine Learning`
+`TypeScript` `HTML` `CSS` `C` `C++` `Solidity` `Python` `MATLAB` `Machine Learning`
 
 ---
 
