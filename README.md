@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="José Victor">
+</p>
+
 <p align="right">
   <a href="./README.md">🇬🇧 English</a> |
   <a href="./README.pt-BR.md">🇧🇷 Português</a>
@@ -24,22 +28,6 @@ Currently based in France 🇫🇷.
 ### Technologies
 
 `Python` `C++` `Git` `Linux` `SQL` `Machine Learning`
-
----
-
-## Featured Projects
-
-### 🤖 Project Name
-
-Short description of what you built and the technologies used.
-
-### 📊 Project Name
-
-Short description of the problem, solution, and results.
-
-### ⚙️ Project Name
-
-Short description of the project.
 
 ---
 
