@@ -1,12 +1,15 @@
-# Hi, I'm José Victor 👋
+<p align="right">
+  <a href="./README.md">🇬🇧 English</a> |
+  <a href="./README.pt-BR.md">🇧🇷 Português</a>
+</p>
 
-🇬🇧 **English** | 🇧🇷 **Português**
+# Hi, I'm José Victor 👋
 
 ## About me
 
-I'm an Electrical Engineering student at **Poli-USP** and **ENSTA Paris**, interested in the intersection of **technology, artificial intelligence and finance**.
+I'm an Electrical Engineering student at **Poli-USP** and **ENSTA Paris**, interested in the intersection of **technology, artificial intelligence, and finance**.
 
-I enjoy building practical solutions involving software, automation, data and machine learning, while exploring applications in financial markets and engineering.
+I enjoy building practical solutions involving software, automation, data, and machine learning, while exploring their applications in financial markets and engineering.
 
 Currently based in France 🇫🇷.
 
@@ -24,25 +27,7 @@ Currently based in France 🇫🇷.
 
 ---
 
-## Sobre mim
-
-Sou estudante de **Engenharia Elétrica na Poli-USP e na ENSTA Paris**, com interesse na interseção entre **tecnologia, inteligência artificial e mercado financeiro**.
-
-Gosto de desenvolver soluções práticas envolvendo software, automação, dados e machine learning, além de explorar suas aplicações em finanças e engenharia.
-
-Atualmente moro e estudo na França 🇫🇷.
-
-### Áreas de interesse
-
-* Inteligência Artificial & Machine Learning
-* Engenharia de Software
-* Finanças Quantitativas & Mercado Financeiro
-* Automação & Dados
-* Engenharia
-
 ## Featured Projects
-
-Aqui você pode colocar 3–4 dos seus melhores projetos:
 
 ### 🤖 Project Name
 
@@ -50,7 +35,7 @@ Short description of what you built and the technologies used.
 
 ### 📊 Project Name
 
-Short description of the problem, solution and results.
+Short description of the problem, solution, and results.
 
 ### ⚙️ Project Name
 
@@ -60,4 +45,4 @@ Short description of the project.
 
 ## Contact
 
-**LinkedIn:** https://www.linkedin.com/in/jos%C3%A9-victor-lyra-de-castro-4101b6309/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-José%20Victor%20Lyra%20de%20Castro-blue?logo=linkedin)](https://www.linkedin.com/in/jos%C3%A9-victor-lyra-de-castro-4101b6309/)
