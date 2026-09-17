@@ -27,7 +27,7 @@ Currently based in France 🇫🇷.
 
 ### Skills
 
-`TypeScript` `HTML` `CSS` `C` `C++` `Solidity` `Python` `MATLAB` `Machine Learning`
+`TypeScript` `HTML` `CSS` `C` `C++` `Solidity` `Python` `MATLAB`
 
 ---
 
