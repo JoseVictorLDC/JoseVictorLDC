@@ -27,7 +27,7 @@ Atualmente moro e estudo na França 🇫🇷.
 
 ### Habilidades
 
-`TypeScript` `HTML` `CSS` `C` `C++` `Solidity` `Python` `MATLAB` `Machine Learning`
+`TypeScript` `HTML` `CSS` `C` `C++` `Solidity` `Python` `MATLAB`
 
 ---
 
